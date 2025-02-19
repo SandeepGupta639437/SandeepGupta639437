@@ -1,6 +1,5 @@
-## Hi there 👋
-**I am Sandeep Gupta**
-**I am Currently Learning Android Development with Kotlin**
+- 👋 **Hi, I’m Sandeep Gupta**
+- 🌱 **I’m Currently Learning Android Development with Kotlin**
 <!--
 **SandeepGupta639437/SandeepGupta639437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
