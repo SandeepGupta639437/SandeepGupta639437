@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 **About Me**
-- 🎓 **B.Tech 2nd Year** | **Ajay Kumar Garg Engineering College**  
+- 🎓 **B.Tech 3rd Year** | **Ajay Kumar Garg Engineering College**  
 - 📱 **Android Developer** | Jetpack Compose & Kotlin  
 - 💻 **Competitive Programmer** | CodeChef (⭐2-star), LeetCode  
 - 🌍 **Member of CSI (Computer Society of India)** | Working on a **CSI Society App**  
